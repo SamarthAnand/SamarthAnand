@@ -4,15 +4,10 @@
   <a href="https://github.com/SamarthAnand">
     <img src="https://img.shields.io/badge/SamarthAnand-100000?style=for-the-badge&logo=github&logoColor=white">
    <a/
-  <a href="https://linkedin.com/in/samarth-anand">
-    <img src="https://img.shields.io/badge/thepushkarp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/anand-samarth">
+    <img src="https://img.shields.io/badge/SamarthAnand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a/>
-  <a href="https://twitter.com/SamarthAlways">
-    <img src="https://img.shields.io/badge/@thepushkarp-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  <a/>
-   <a href="https://instagram.com/samarth__hun">
-    <img src="https://img.shields.io/badge/@thepushkarp-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <a/>
+  
 </p>
 
 ---
@@ -28,12 +23,12 @@
   <tr>
     <td>
       <a href="https://github.com/SamarthAnand">
-        <img src="https://github-readme-stats.vercel.app/api?username=thepushkarp&show_icons=true&include_all_commits=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api?username=SamarthAnand&show_icons=true&include_all_commits=true&theme=tokyonight">
       <a/>
     </td>
     <td>
       <a href="https://github.com/SamarthAnand">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepushkarp&layout=compact&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthAnand&layout=compact&theme=tokyonight">
       <a/>
     </td>
    </tr>
