@@ -13,8 +13,8 @@
 ---
      
 - 🎓 Alumnus at IIIT Vadodara
-- 🛠 Proficient with Web Development using MERN 
-- 🌱 Currently learning more about Cloud Technologies 
+- 🛠 Proficient with Web Development using Java(SpringBoot) + React + PostgreSQL 
+- 🌱 Currently learning more about Cloud Technologies (certified Google Cloud Digital Leader)
 - 👯 Looking to collaborate on Web Dev Projects
 
 ---
